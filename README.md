@@ -152,4 +152,4 @@ http://127.0.0.1:8000/api/hello?name=Ana
 ---
 
 # Link del chat
-https://chatgpt.com/share 6a158682-fcd4-83e9-810d-81e2e7ef96e6
+https://chatgpt.com/share/6a158682-fcd4-83e9-810d-81e2e7ef96e6
